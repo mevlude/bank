@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1547018079625' stop='1547018097124'>
+    <name>Jasmine Data Provider </name>
+    <title>Jasmine Data Provider </title>
+    <test-cases>
+        <test-case start='1547018089076' status='passed' stop='1547018092103'>
+            <name>should add customer: Elon Musk</name>
+            <title>should add customer: Elon Musk</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1547018092103' status='passed' stop='1547018095451'>
+            <name>should add customer: Warren Buffet</name>
+            <title>should add customer: Warren Buffet</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1547018095451' status='passed' stop='1547018097119'>
+            <name>should add customer: Amanico Ortega</name>
+            <title>should add customer: Amanico Ortega</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
